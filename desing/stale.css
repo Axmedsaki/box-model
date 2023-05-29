@@ -1,0 +1,120 @@
+.main{
+    width: 960px;
+    height: 700px;
+    border: 2px solid navy;
+    margin: 2px auto;
+    padding: 5px;
+    
+
+}
+
+
+.header{
+    width: 942px;
+    height: 50px;
+    border: 2px solid navy;
+    margin:  2px auto;
+    padding: 5px;
+
+
+}
+
+.topnav{
+    width: 942px;
+    height: 50px;
+    border: 2px solid navy;
+    margin: 2px auto;
+    margin-top: 5px;
+    padding: 5px;
+
+}
+
+.contents{
+    width: 942px;
+    height: 50px;
+    border: 2px solid navy;
+    margin: 2px auto;
+    padding: 5px;
+margin-top: 8px;
+}
+
+.sectionone{
+    width: 290px;
+    min-height: 482px;
+    border: 2px solid navy;
+    margin-top: 90px;
+    margin-right: 5px;
+    padding: 5px;
+    float: left;
+    background-color: #fff
+}
+.sectiontwo{
+    width: 290px;
+    min-height: 482px;
+    border: 2px solid navy;
+    margin-top: 90px;
+    margin-left: 10px;
+    padding: 5px;
+    float: left;
+    background-color: beige;
+    
+  
+}
+
+
+.sectionthree{
+    width: 290px;
+    min-height: 482px;
+    border: 2px solid navy;
+    margin-top: 90px;
+    margin-left: 15px;
+    padding: 5px;
+    float: left;
+    background-color: #fff
+    
+    
+    
+}
+
+.footer{
+    width: 960px;
+  min-height: 40px;  
+    border: 2px solid navy;
+    margin: 2px auto;
+    margin-top: 5px;
+    padding: 5px;
+}
+.footer h1{
+font-size: 25px;
+}
+ .sectionone .p{
+    font-family: sans-serif;
+    font-kerning: normal;
+
+
+ }
+
+ .icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.icons a{
+    text-decoration: none;
+    color: #299fe4;
+}
+.icons ion-icon{
+    color: #15c2e0;
+    font-size: 30px;
+    padding-left: 14px;
+    padding-top: 5px;
+    transition: 0.3s ease;
+}
+.icons ion-icon:hover{
+    color: #ff7200;
+}
+body{
+    background: #053e94;
+}
+
+ 
